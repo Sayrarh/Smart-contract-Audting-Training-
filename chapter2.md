@@ -1,4 +1,4 @@
-### CHAPTER TWO
+### CHAPTER TWO - Ethereum Basic
 Ethereum is the system, while ether is the currency represented in ETH.
 The value of ether is always represented internally in Ethereum as an unsigned integer value denominated in wei. When you transact 1 ether, the transaction encodes 1000000000000000000 wei as the value(msg.value).
 
@@ -16,16 +16,18 @@ Trusted wallets include MetaMask, Jaxx, MyEtherWallet (MEW), Emerald Wallet, and
 #### Accountability
 One major aspect is that each Ethereum user can and should control their own private keys, which control access to funds and smart contracts.
 
-#### Diffefence Between an Externally Owned Accounts (EOAs) and Contract Accounts.
 
-Externally owned accounts have a private key; having the private key means having control over your funds while A contract account lacks a private key. It is instead owned (and controlled) by the logic of its smart contract code: the software program recorded on the Ethereum blockchain at the creation of the contract account and executed by the EVM. 
+#### Diffference Between an Externally Owned Accounts (EOAs) and Contract Accounts.
 
-Your EOA is controlled by a private key hence you can initiate transactions (you can start a call and interact with different smart contracts) while A contract account cannot initiate a transaction. 
+1. Externally owned accounts have a private key; having the private key means having control over your funds while A contract account lacks a private key. It is instead owned (and controlled) by the logic of its smart contract code: the software program recorded on the Ethereum blockchain at the creation of the contract account and executed by the EVM. 
 
-Msg.sender can be either a contact account or an EOA, while tx.origin can only be an EOA.
+2. Your EOA is controlled by a private key hence you can initiate transactions (you can start a call and interact with different smart contracts) while A contract account cannot initiate a transaction. 
 
-An EOA can not have a smart contract code while A contract account can have smart contract code.
+3. Msg.sender can be either a contact account or an EOA, while tx.origin can only be an EOA.
+
+4. An EOA can not have a smart contract code while A contract account can have smart contract code.
+
 
 ###### Similarities
-Contracts, like EOAs, have addresses. 
-Contracts, like EOAs, can send and receive ether.
+1. Contracts, like EOAs, have addresses. 
+2. Contracts, like EOAs, can send and receive ether.
