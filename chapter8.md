@@ -1,4 +1,4 @@
-### Chapter 8 - Smart Contracts and Vyper
+# Chapter 8 - Smart Contracts and Vyper
 Vyper is a programming language that allows you to create smart contracts on the Ethereum blockchain. It is intended to be simple, secure, and simple to learn. </br>
 
 Vyper is a high-level language, which allows developers to write programs in a more abstract and intuitive manner, without having to worry about the specifics of the Ethereum Virtual Machine (EVM) on which their code will be executed. </br>
@@ -10,7 +10,7 @@ Vyper is a statically-typed language, which means that all variables have a fixe
 One of Vyper's guiding principles is to make it nearly impossible for developers to write deceptive code.
 
 
-### Here are some of the Key differences between Solidity and Vyper:
+## Here are some of the Key differences between Solidity and Vyper:
 
 1. Syntax: Vyper's syntax is cleaner and more minimalistic than Solidity's, with an emphasis on readability and simplicity. Solidity has a more familiar, C-like syntax that experienced programmers may be more comfortable with.
 

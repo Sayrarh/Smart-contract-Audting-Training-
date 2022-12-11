@@ -1,4 +1,4 @@
-## CHAPTER 1:  Ethereum
+##CHAPTER 1:  Ethereum
 What is Ethereum? </br>
 Ethereum is a decentralized computing infrastructure that allows smart contracts to run. It makes use of a blockchain to integrate and store system state changes (transactions).
 
@@ -24,7 +24,7 @@ Gas is a metering mechanism introduced by Ethereum. The EVM carefully accounts f
 Ethereum monitors the state transitions of a general-purpose data store, which can hold any data expressible as a key-value tuple. A key-value data store stores arbitrary values, each of which is referenced by a key(like a mapping).Ethereum has memory that stores both code and data, and it tracks how this memory changes over time using the Ethereum blockchain. Ethereum, like a general-purpose stored-program computer, can load and run code, storing the resulting state changes in its blockchain.
 
 
-#### Major components of ethereum blockchain
+### Major components of ethereum blockchain
 1. Peer to peer network that connects participants, eliminating the need for an intermediary.
 2. Distributed Digital Ledger.
 3. Consensus Mechanism: A set of rules for reaching agreement on what defines a transaction and what constitutes a valid state transition.
@@ -37,7 +37,7 @@ Ethereum monitors the state transitions of a general-purpose data store, which c
 10. Clients, The most prominent interoperable client software implementations for Ethereum are Go-Ethereum (Geth) and Parity.
 
 
-#### Stages of Ethereum development
+### Stages of Ethereum development
 Ethereum's development was planned in four stages, with significant changes occurring at each stage.
 1. Frontier: Ethereum's initial stage also the ethereum genesis block, which lasted from July 30, 2015 to March 2016. 
 2. Homestead: The second stage of Ethereum, launched in March 2016. with block number - #1,150,000.
@@ -47,7 +47,7 @@ Ethereum's development was planned in four stages, with significant changes occu
 To date, the intermediate hard forks have been codenamed Ice Age, DAO, Tangerine Whistle, Spurious Dragon, Byzantium, Constantinople/St. Petersburg, Istanbul and Muir Glacier.
 
 
-#### A DApp(DEcentraised Application) is composed of:
+### A DApp(DEcentraised Application) is composed of:
  1. Smart contracts on a blockchain
  2. A web frontend user interface
 
