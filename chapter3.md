@@ -1,4 +1,4 @@
-# Chaprter 3 - ETHEREUM CLIENTS
+# Chapter 3 - ETHEREUM CLIENTS
 
 An Ethereum client is a software application that implements the Ethereum specification and communicates with other Ethereum clients via the peer-to-peer network. Different Ethereum clients can communicate with one another if they follow the reference specification and the standardized communication protocols. While these various clients are implemented by various teams and in various programming languages, they all "speak" the same protocol and adhere to the same rules. As a result, they can all operate on and interact with the same Ethereum network.
 

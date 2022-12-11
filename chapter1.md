@@ -1,4 +1,4 @@
-##CHAPTER 1:  Ethereum
+## CHAPTER 1:  Ethereum
 What is Ethereum? </br>
 Ethereum is a decentralized computing infrastructure that allows smart contracts to run. It makes use of a blockchain to integrate and store system state changes (transactions).
 
